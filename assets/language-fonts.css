@@ -1,0 +1,7 @@
+@font-face{font-family:'Noto Sans Devanagari';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/noto-sans-devanagari-400.ttf') format('truetype')}
+@font-face{font-family:'Noto Sans Devanagari';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/noto-sans-devanagari-700.ttf') format('truetype')}
+@font-face{font-family:'Noto Sans Gujarati';font-style:normal;font-weight:400;font-display:swap;src:url('/assets/fonts/noto-sans-gujarati-400.ttf') format('truetype')}
+@font-face{font-family:'Noto Sans Gujarati';font-style:normal;font-weight:700;font-display:swap;src:url('/assets/fonts/noto-sans-gujarati-700.ttf') format('truetype')}
+html:lang(hi) body,html:lang(hi) .font-display,html:lang(hi) .font-mono{font-family:"IBM Plex Sans","Noto Sans Devanagari","Noto Sans Gujarati",sans-serif}
+html:lang(gu) body,html:lang(gu) .font-display,html:lang(gu) .font-mono{font-family:"IBM Plex Sans","Noto Sans Gujarati","Noto Sans Devanagari",sans-serif}
+html:lang(en) body{font-family:"IBM Plex Sans","Noto Sans Devanagari","Noto Sans Gujarati",sans-serif}
